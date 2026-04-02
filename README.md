@@ -1,2 +1,2 @@
-# c
+# Solstice Server
 Solstice for advanced servers
